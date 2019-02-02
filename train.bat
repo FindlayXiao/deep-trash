@@ -1,0 +1,1 @@
+python retrain.py --print_misclassified_test_images --how_many_training_steps 500 --eval_step_interval 20 --train_batch_size 400
