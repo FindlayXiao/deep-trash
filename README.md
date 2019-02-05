@@ -4,7 +4,9 @@
 ## Inspiration
 Hey you! Do you ever walk down the street, see potato chip bags littered on the floor, water bottles scrunched up every which way? Sure, there might be trash cans around and maybe you'll find one of those rare environmental enthusiasts somewhere, but for a large majority of society, sometimes it's just too much work. Plastic? Recyclables? Metals? Is this biodegradable or compost or can I just toss it into trash and it'll magically disappear into an abyss where discarded things go? Yup, paying attention and sorting out trash can take quite the brain power, which is why we bring to you today...DeepTrash! Because at MakeHarvard we believe in the motto of _Veritrash_, so you can throw anything into our DeepTrash bin, we'll determine the truth behind what trash category it is, and we'll automatically filter it for you!
 
-<img align="center" src="https://raw.githubusercontent.com/isaiahnields/deep-trash/master/demo.gif" width="500">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/isaiahnields/deep-trash/master/demo.gif" width="500">
+</div>
 
 ## What it does
 **tl;dr - It's a trashy idea.**
