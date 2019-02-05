@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/isaiahnields/deep-trash/master/build/icons/icon.png" width="48"> DeepTrash
+# <img src="https://raw.githubusercontent.com/isaiahnields/deep-trash/master/icon.png" width="48"> DeepTrash
 > An intelligent trashcan that automatically sorts your waste for you!
 
 ## Inspiration
